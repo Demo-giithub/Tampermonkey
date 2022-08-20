@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hello World
 // @namespace    http://meng.com
-// @version      0.1
+// @version      0.2
 // @description  new Script
 // @author       meng
 // @match        *://*
@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    console.log("Hello World");
+    console.log("Hello World -> Greasy Fork");
 })();
