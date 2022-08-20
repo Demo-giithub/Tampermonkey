@@ -11,6 +11,7 @@
 // ==/UserScript==
 
 (function() {
+    debugger;
     'use strict';
     // 给浏览器放入一个键值对，永久保存在浏览器中
     let VEnable = window.localStorage.getItem("VEnable") === "true";
